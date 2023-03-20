@@ -1,0 +1,29 @@
+{
+  "name": "nakameh",
+  "displayName": "Nakameh",
+  "description": "Thème réalisé par Noah",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "publisher": "henochnoah",
+	"author": {
+		"name": "Noah Henoch"
+	},
+  "repository": {
+		"type": "git",
+		"url": "https://https://github.com/Nakameh/Nakameh-theme"
+	},
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme de Nakameh",
+        "uiTheme": "hc-black",
+        "path": "./themes/Theme de Nakameh-color-theme.json"
+      }
+    ]
+  }
+}
