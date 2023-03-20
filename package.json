@@ -21,7 +21,7 @@
     "themes": [
       {
         "label": "Theme de Nakameh",
-        "uiTheme": "hc-black",
+        "uiTheme": "vs-dark",
         "path": "./themes/Theme de Nakameh-color-theme.json"
       }
     ]
